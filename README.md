@@ -1,6 +1,6 @@
 # High connectivity and human movement limits the impact of travel time on infectious disease transmission
 
-**Note:** _Even though the schematic diagram plots Location j as the home location, with people moving to all other Locations i and then returning to home location j, the code is actually written with Location i as the home location, where people move to all other Locations j and then return to home location I._
+**Note:** _Even though the schematic diagram is plotted in such a way that Location j is considered the reference location, with people moving to all Locations i and returning to the reference location j, the code is actually written with Location i considered as the reference location. Here, people move to all Locations j and return to the reference location i._
 <p align="center">
   <img src="SEIR_metapopulation_model.png" alt="SEIR metapopulation model">
 </p>
