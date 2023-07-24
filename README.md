@@ -1,6 +1,6 @@
 # High connectivity and human movement limits the impact of travel time on infectious disease transmission
 
-![SEIR metapopulation model](SEIR_metapopulation_model.pdf)
+![SEIR metapopulation model](SEIR_metapopulation_model.png)
 
 ## Abstract
 
